@@ -16,7 +16,7 @@
 header{
     height: 100vh;
     background-image:url("Luxor_Temple_2015.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     

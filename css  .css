@@ -61,7 +61,7 @@ td,th{border:4px solid black;
     } 
     .iii{height: 100vh;
         background-image:url("19e21d328924e00b3d35b92fc9f380ac-luxor-temple.jpg");
-        background-size: 100%;
+        background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
 } 
@@ -87,8 +87,8 @@ td,th{border:4px solid black;
     max-width: 100px;
     margin: auto; 
     } 
-.imgg{padding-top: 80px;
-    padding-bottom: 20%;
+.imgg{padding-top: 50px;
+    padding-bottom: 10%;
       position:relative;
       
     }

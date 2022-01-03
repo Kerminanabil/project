@@ -1,0 +1,224 @@
+.h{position: absolute;
+    top: 50%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgba(231, 252, 47, 0.966);
+    font-size: 88px;
+    background-color: rgba(139, 120, 36, 0.637);
+    border: solid;
+    border-width: 6px;
+    border-color: rgba(110, 109, 48, 0.664);
+    border-radius: 15%;
+    width: fit-content;
+    margin-left: 1%;
+    }
+header{
+    height: 100vh;
+    background-image:url("Luxor_Temple_2015.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    }
+.info{border:solid;
+      border-width: 5px;
+      border-radius: 40px;
+      border-top: 0px;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-spacing: 100px;
+      padding-left: 15px;
+      font-size: 18px;
+    }
+.rrr{border:outset;
+     border-width: 4px;
+     border-top-right-radius: 20px; 
+     border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-bottom-right-radius: 20px;
+     border-left-style: hidden;
+     border-color:silver;
+     background-color:whitesmoke;
+     margin-bottom: 30px;
+     margin-top: 20px;
+     font-size: 19px;
+    }     
+.list_group{margin-top: 50px;
+      padding: auto;
+    }  
+.list-group-item{
+                 font-size: 23px;
+                 text-align: center;
+                }
+
+td,th{border:4px solid black;
+     width:400px; color:rgb(98, 0, 128);
+     font-size: 20;
+     border-radius:5px;
+     text-align:center;
+    font-size: 17px;
+    } 
+    .iii{height: 100vh;
+        background-image:url("19e21d328924e00b3d35b92fc9f380ac-luxor-temple.jpg");
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+} 
+
+.luxor{position: absolute;
+    top: 25%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    color: rgb(102, 40, 40);
+    font-size: 130px;
+    text-shadow :2px 2px rgb(48, 34, 18);
+    margin: auto;
+    padding: auto;
+    }        
+.temple{position: absolute;
+    top: 35%;
+    left:67%;
+    transform: translate(-50%, -50%);
+    color: rgba(150, 76, 41, 0.979);
+    font-size: 50px;
+    text-shadow :2px 2px rgb(78, 41, 30);
+    padding: auto;
+    max-width: 100px;
+    margin: auto; 
+    } 
+.imgg{padding-top: 80px;
+    padding-bottom: 20%;
+      position:relative;
+      
+    }
+.i{border:solid;
+   border-width: 5px;
+   border-radius: 40px;
+   border-top: 0px;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   border-spacing: 100px;
+   padding-left: 15px;
+   padding-right: 15px;
+   font-size: 18px;
+   border-color: brown;
+  }
+  .info-3{color: coral;
+    border: dotted;
+    text-align: center;
+    border-radius: 15%;
+    border-color: darkred;
+    border-width: 3px;
+    border-left: 0;
+    border-right: 0;
+    border-spacing: 100px;
+    width: fit-content;
+    background-color: snow;
+    text-align: center;
+    font-size: 28px;
+    margin-left: 4%;
+}
+.info-2{text-align: center;
+    border: solid;
+    border-radius: 22%;
+    border-color: rgb(30, 78, 122);
+    border-width: 6px;
+    border-left: 0;
+    border-spacing: 100px;
+    width: fit-content;
+    background-color: snow;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 2%;
+    color: gold;
+    text-shadow: 2px 2px gray;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left:30%;
+        }
+#po{border:outset;
+    border-width: 4px;
+    border-top-right-radius: 20px; 
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-left-style: hidden;
+    border-color:rgb(78, 28, 28);
+    background-color:whitesmoke;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 19px;
+    width: fit-content;
+    margin-right: 3%;
+     margin-left: 3%;}
+.to{color: rgb(142, 40, 151);
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    border : solid;
+    border-radius: 25%;
+    border-color: rgb(211, 121, 188);
+    border-width: 5px;
+    width: 30%;
+    text-align: center;
+    text-shadow: 2px 2px rgba(65, 225, 225, 0.904);
+    background-color: rgb(212, 208, 208);
+   }
+
+.gggg{background-color:snow;}
+
+#tf{border: solid;
+    border-radius: 20px;
+    border-top: 0;
+    border-color: rgb(160, 120, 32);
+    border-width: 7px;
+    width: fit-content;
+    padding: 3px;
+    margin-bottom: 5%;
+    margin-top: 5%}
+#ee{color: darkred;
+    border: solid;
+    border-radius:20px ;
+    border-color: bisque;
+    border-left: 0;
+    margin-left: 3%;
+    margin-top:2% ;
+    margin-bottom: 5%;
+    border-width: 10px;
+    width: fit-content;
+    padding: 1%;  
+    font-size: 27px;  
+}
+#carouselExampleControls,#carouselExampleIndicators{margin-top: 5%;
+                         width: 70%;
+                         color: turquoise;
+                        }
+#a{border: solid;
+   border-radius: 7px;
+   color: rgb(70, 53, 33);
+border-color: rgb(35, 34, 66);
+border-width: 5px;
+width: fit-content;
+text-align: left;
+padding: 1%;
+
+border-left: 0;
+font-size: 22px;
+}
+.gallery img:hover{
+    filter:brightness();
+    transform: scale(1.1);}
+.gallery img{
+    filter:hue-rotate(50%);
+    transition: .5s;
+    border-radius: 100px;
+    padding: 1%;
+    }
+#navbar-example3{
+border: solid 2px;
+border-color: chocolate;
+border-width: 4px;
+border-radius: 30px;
+font-size: 20px;
+text-align: center;}
